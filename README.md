@@ -55,13 +55,6 @@ From git:
 /plugin install fairmind-design@fairmind-plugins
 ```
 
-Or from a local checkout:
-
-```
-/plugin marketplace add /path/to/claude-plugins
-/plugin install fairmind-design@fairmind-plugins
-```
-
 Verify:
 
 ```
